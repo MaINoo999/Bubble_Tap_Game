@@ -1,4 +1,4 @@
-# BubbleTapGame2
+# BubbleTapGame
 
 안드로이드로 만든 간단 버블 터치 게임 프로젝트입니다.
 
