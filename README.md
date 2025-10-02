@@ -3,10 +3,9 @@
 
 # 게임 소개
 버블탭 게임은 화면에 랜덤하게 생성되는 버블들을 제한 시간 30초 안에 최대한 많이 터뜨리는 간단하면서도 중독성 있는 게임. 순간적인 판단력과 빠른 손놀림으로 친구들과 점수 경쟁을 해보세요! 누가 최고의 버블 탭퍼가 될까요?
-![버블탭 게임 메인 화면](BubbleTapGame/Image/main.png)
-![버블탭 게임 시작 화면 ](BubbleTapGame/Image/Start.png)
-![버블탭 게임 플레이 화면 ](BubbleTapGame/Image/Play.png)
-![버블탭 게임  화면 ](BubbleTapGame/Image/End.png)
+![버블탭 게임 시작 화면 ](BubbleTapGame/Image/Start.png "버블탭 게임 시작 화면")
+![버블탭 게임 플레이 화면 ](BubbleTapGame/Image/Play.png "버블탭 게임 플레이 화면")
+![버블탭 게임 끝 화면 ](BubbleTapGame/Image/End.png " 게임 끝 화면")
 
 # 주요 기능
 다양한 버블 생성: 1초마다 1개에서 최대 4개의 버블이 화면 곳곳에 랜덤으로 나타나요.
@@ -33,7 +32,7 @@ SharedPreferences를 이용한 최고 점수 (High Score) 영구 저장 및 관�
 
 # 설치 및 실행 방법
 저장소 클론:
-git clone [깃허브 저장소 주소]
+git clone [[BubbleTapGame](https://github.com/MaINoo999/ON-Device_Object-Oriented-Programming/tree/db9c74758c530a6808468430c8976d908bf60657/BubbleTapGame)]
 안드로이드 스튜디오에서 열기:
 Android Studio를 열고, 'Open an existing Android Studio project'를 선택한 후 클론한 프로젝트 폴더를 엽니다.
 빌드 및 실행:
