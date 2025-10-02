@@ -12,6 +12,7 @@
 
 # 2. 핵심 기능 및 기술적 구현
 저희 버블탭 게임은 30초의 제한 시간 동안 화면에 랜덤으로 생성되는 버블을 최대한 많이 터치하여 점수를 얻는 방식입니다. 각 기능의 기술적 구현을 설명해 드릴게요.
+
 2.1. 동적인 버블 생성 및 제거
 구현 기술: Handler, Runnable, Random 클래스
 startGame() 메서드 내에서 bubbleRunnable을 Handler에 postDelayed하여 비동기적으로 버블 생성 로직을 반복 실행합니다. [[Ref: handler.postDelayed(this, nextDelay)]]
