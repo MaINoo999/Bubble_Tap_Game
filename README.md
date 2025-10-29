@@ -67,6 +67,7 @@ UI 스레드 처리: 버블 생성 및 제거, 점수/타이머 업데이트는 
 ![버블탭 게임 시작 화면 ](BubbleTapGame/Image/Start.png "버블탭 게임 시작 화면")
 ![버블탭 게임 플레이 화면 ](BubbleTapGame/Image/Play.png "버블탭 게임 플레이 화면")
 ![버블탭 게임 끝 화면 ](BubbleTapGame/Image/End.png " 게임 끝 화면")
+![버블탭 게임 영상 화면](BubbleTapGame/Image/Bubble_Tap_game.mp4 " 버블탭 게임 영상 화면") 
 
 # 설치 및 실행 방법
 저장소 클론:
